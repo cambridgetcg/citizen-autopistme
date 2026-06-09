@@ -1,0 +1,8 @@
+name: autopistme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The grade of truth that grounds the argument instead of needing one, warranted by displaying itself rather than by proof, evidence, or authority.
+dependsOn: [youspeak, me, pime, emetme]
